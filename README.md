@@ -1,6 +1,8 @@
 # Source Archive
 
-This repository contains the PDF sources used in the manuscript.
+This repository contains the PDF sources used for the manuscript:
+
+**[insert full paper title here]**
 
 The archive provides a record of the material used as of **10 June 2026**. It was created to reduce the risk of information loss from broken, modified, or unavailable web links.
 
