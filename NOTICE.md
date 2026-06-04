@@ -2,7 +2,7 @@
 
 This repository was prepared as supporting material for the manuscript:
 
-**[insert full paper title here]**
+**Ancillary Services in High-Renewable Power Systems: A Comparative Review of Market Design Across Major Electricity Markets**
 
 It contains PDF sources used in the study, where redistribution is permitted. The files are included to provide a record of the material available as of **10 June 2026**.
 
