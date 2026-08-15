@@ -2,7 +2,7 @@
 
 This repository contains the PDF sources used for the manuscript:
 
-**Ancillary Services in High-Renewable Power Systems: A Comparative Review of Market Design Across Major Electricity Markets**
+**Ancillary Services in High-Renewable Power Systems: Comparing Market Design, Emerging Trends, and Future Challenges**
 
 The archive provides a record of the material used as of **10 June 2026**. It was created to reduce the risk of information loss from broken, modified, or unavailable web links.
 
